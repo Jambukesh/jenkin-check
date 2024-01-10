@@ -1,0 +1,14 @@
+E:\mphasis\problem statement\PHASE3\PRACTICE\day4\ConsoleAppexample new\ConsoleAppexample new\bin\Debug\net6.0\ConsoleAppexample new.exe
+E:\mphasis\problem statement\PHASE3\PRACTICE\day4\ConsoleAppexample new\ConsoleAppexample new\bin\Debug\net6.0\ConsoleAppexample new.deps.json
+E:\mphasis\problem statement\PHASE3\PRACTICE\day4\ConsoleAppexample new\ConsoleAppexample new\bin\Debug\net6.0\ConsoleAppexample new.runtimeconfig.json
+E:\mphasis\problem statement\PHASE3\PRACTICE\day4\ConsoleAppexample new\ConsoleAppexample new\bin\Debug\net6.0\ConsoleAppexample new.dll
+E:\mphasis\problem statement\PHASE3\PRACTICE\day4\ConsoleAppexample new\ConsoleAppexample new\bin\Debug\net6.0\ConsoleAppexample new.pdb
+E:\mphasis\problem statement\PHASE3\PRACTICE\day4\ConsoleAppexample new\ConsoleAppexample new\obj\Debug\net6.0\ConsoleAppexample new.GeneratedMSBuildEditorConfig.editorconfig
+E:\mphasis\problem statement\PHASE3\PRACTICE\day4\ConsoleAppexample new\ConsoleAppexample new\obj\Debug\net6.0\ConsoleAppexample new.AssemblyInfoInputs.cache
+E:\mphasis\problem statement\PHASE3\PRACTICE\day4\ConsoleAppexample new\ConsoleAppexample new\obj\Debug\net6.0\ConsoleAppexample new.AssemblyInfo.cs
+E:\mphasis\problem statement\PHASE3\PRACTICE\day4\ConsoleAppexample new\ConsoleAppexample new\obj\Debug\net6.0\ConsoleAppexample new.csproj.CoreCompileInputs.cache
+E:\mphasis\problem statement\PHASE3\PRACTICE\day4\ConsoleAppexample new\ConsoleAppexample new\obj\Debug\net6.0\ConsoleAppexample new.dll
+E:\mphasis\problem statement\PHASE3\PRACTICE\day4\ConsoleAppexample new\ConsoleAppexample new\obj\Debug\net6.0\refint\ConsoleAppexample new.dll
+E:\mphasis\problem statement\PHASE3\PRACTICE\day4\ConsoleAppexample new\ConsoleAppexample new\obj\Debug\net6.0\ConsoleAppexample new.pdb
+E:\mphasis\problem statement\PHASE3\PRACTICE\day4\ConsoleAppexample new\ConsoleAppexample new\obj\Debug\net6.0\ConsoleAppexample new.genruntimeconfig.cache
+E:\mphasis\problem statement\PHASE3\PRACTICE\day4\ConsoleAppexample new\ConsoleAppexample new\obj\Debug\net6.0\ref\ConsoleAppexample new.dll
